@@ -6,3 +6,6 @@ Welcome to the **Intelligent Systems Club (ISC)** at ISIMS!
 
 - ???
 - ???
+## Python
+
+Python — because it is easy to start with!
